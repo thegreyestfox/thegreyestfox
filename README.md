@@ -1,3 +1,6 @@
+Please help, I'm definitely a little... a lot lost..
+
+
 - 👋 Hi, I’m @thegreyestfox
 - 👀 I’m interested in indie game design ...
 - 🌱 I’m currently learning java/android studio ...
